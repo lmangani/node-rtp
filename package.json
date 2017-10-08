@@ -1,0 +1,22 @@
+{
+  "name": "@about_hiroppy/node-rtp",
+  "version": "1.0.1",
+  "description": "node-rtp ========",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abouthiroppy/node-rtp.git"
+  },
+  "author": "abouthiroppy <git@about-hiroppy.com> (http://about-hiroppy.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abouthiroppy/node-rtp/issues"
+  },
+  "homepage": "https://github.com/abouthiroppy/node-rtp#readme"
+}
